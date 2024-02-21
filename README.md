@@ -8,8 +8,8 @@
 
 ---
 
-- 🔭 I’m currently working on Flutter, NestJS, and ASP.NET
-- 🌱 I’m currently learning Flutter, MongoDB, NestJS, NextJS, ASP.NET Core, Microservice and Kubernetes
+- 🔭 I’m currently working on Flutter, NestJS, and ASP.NET Core
+- 🌱 I’m currently learning Flutter, MongoDB, NestJS, NextJS, ASP.NET Core, Microservice, and Kubernetes
 - 💬 Ask me about Flutter, NestJS, ASP.NET Core, Microservice, Kubernetes
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kimhak-long-370818295), [Facebook](https://web.facebook.com/mrrhak168), [Twitter](https://twitter.com/mrrhak168)
 - ⚡ Learn more about me from my [official page](https://mrrhak.com)
