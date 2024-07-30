@@ -1,4 +1,9 @@
-<h1 align="center" id="hi-kimhak">Hi 👋, I'm Kimhak </h1>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=400&height=32&lines=Hi+👋,+I'm+Kimhak;Welcome+to+my+Profile!)](https://mrrhak.com)
+</div>
+
+---
 <p align="center" style="font-size: 24px;">A Full Stack Developer</p>
 <p align="center">I have rich experience in flutter, nextjs and nestjs/asp.net with graphql and rest api.</p>
 
