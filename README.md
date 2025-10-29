@@ -15,7 +15,7 @@
 </p>
 <div align="center">
 
-![Profile View](https://komarev.com/ghpvc/?username=mrrhak&style=flat&color=brightgreen)
+![Profile View](https://komarev.com/ghpvc/?username=kimhak-jtrb&style=flat&color=brightgreen)
 </div>
 
 <div align="center">
@@ -106,13 +106,10 @@ I always keep up to date, challenge with new technologies and using Agile method
   ---
 
 <h3 align="center">Stats from my public work</h3>
-<div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrrhak&theme=tokyonight" alt="mrrhak" />
-</div>
 <br>
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrrhak&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mrrhak" height=195 style="margin-right: 10px; margin-bottom: 16px;"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrrhak&show_icons=true&locale=en&theme=tokyonight" alt="mrrhak" style="margin-bottom: 16px;"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kimhak-jtrb&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mrrhak" height=195 style="margin-right: 10px; margin-bottom: 16px;"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kimhak-jtrb&show_icons=true&locale=en&theme=tokyonight" alt="mrrhak" style="margin-bottom: 16px;"/>
 </div>
 
 
@@ -121,9 +118,9 @@ I always keep up to date, challenge with new technologies and using Agile method
 <div align="center">
 <!-- By https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrrhak/mrrhak/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mrrhak/mrrhak/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mrrhak/mrrhak/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kimhak-jtrb/kimhak-jtrb/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kimhak-jtrb/kimhak-jtrb/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kimhak-jtrb/kimhak-jtrb/output/github-contribution-grid-snake.svg">
 </picture>
 
 <div align="center">
